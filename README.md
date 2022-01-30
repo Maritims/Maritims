@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Maritims
-- 👀 I’m interested in .NET, java, science fiction, Star Trek and gaming
-- 🌱 I’m currently learning about the Chia network, BDD and the Cucumber framework
-- 💞️ I’m looking to collaborate on interesting open source projects based on either .NET or java, and especially if they're related to 3D or testing
+- 👀 I’m interested in Svelte, TypeScript, .NET, Java, Groovy, Micronaut, science fiction, Star Trek and gaming
+- 🌱 I’m currently learning about Svelte
 - 📫 How to reach me: maritim at gmail dot com
 
 <!---
