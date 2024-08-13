@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maritims
-- 👀 I’m interested in Svelte, TypeScript, .NET, Java, Groovy, Micronaut, science fiction, Star Trek and gaming
-- 🌱 I’m currently learning about Svelte
+- 👀 I’m interested in C and Java
+- 🌱 I’m currently learning about C
 - 📫 How to reach me: maritim at gmail dot com
 
 <!---
